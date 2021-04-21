@@ -1,3 +1,3 @@
 # cheap_store_app
 
-Cheap Store Catalog App
+my first time creating app for flutter
