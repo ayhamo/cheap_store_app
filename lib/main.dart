@@ -761,10 +761,10 @@ class Account {
       this.validationID});
 }
 
-class Item {
+ class Item {
   var itemNo;
   int quantity;
   int cost;
 
   Item({this.itemNo, this.quantity, this.cost});
-}
+ }
