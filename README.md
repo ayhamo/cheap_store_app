@@ -1,2 +1,3 @@
 # cheap_store_app
-my first store app
+First project done using flutter, you can see it online in:
+https://cheapstorecatalog.netlify.app/#/
